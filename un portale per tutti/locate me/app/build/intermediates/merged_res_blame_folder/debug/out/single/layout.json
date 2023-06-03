@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "it.alessiomontanari.app-mergeDebugResources-47:/layout/activity_login.xml",
+        "source": "it.alessiomontanari.app-main-50:/layout/activity_login.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-mergeDebugResources-47:/layout/activity_codice.xml",
+        "source": "it.alessiomontanari.app-main-50:/layout/activity_codice.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-mergeDebugResources-47:/layout/activity_maps.xml",
+        "source": "it.alessiomontanari.app-main-50:/layout/activity_maps.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-mergeDebugResources-47:/layout/activity_inserimento.xml",
+        "source": "it.alessiomontanari.app-main-50:/layout/activity_inserimento.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-mergeDebugResources-47:/layout/list_item.xml",
+        "source": "it.alessiomontanari.app-main-50:/layout/list_item.xml"
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/drawable_avatar_14.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/drawable/avatar_14.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "it.alessiomontanari.app-pngs-43:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/drawable_avatar_8.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/drawable/avatar_8.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "it.alessiomontanari.app-main-50:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/drawable_ic_baseline_info_24.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/drawable/ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/drawable_avatar_4.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/drawable/avatar_4.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/drawable_ic_settings_black_24dp.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/drawable/ic_settings_black_24dp.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "it.alessiomontanari.app-main-50:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "it.alessiomontanari.app-main-50:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/layout_activity_inserimento.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/layout/activity_inserimento.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/drawable_user_yellow_marker.png.flat",
+        "source": "it.alessiomontanari.app-main-50:/drawable/user_yellow_marker.png"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/drawable_avatar_1.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/drawable/avatar_1.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "it.alessiomontanari.app-main-50:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "it.alessiomontanari.app-main-50:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/drawable_avatar_15.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/drawable/avatar_15.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/drawable_avatar_5.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/drawable/avatar_5.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/drawable_avatar_9.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/drawable/avatar_9.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/drawable_ic_baseline_password_24.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/drawable/ic_baseline_password_24.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/drawable_avatar_11.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/drawable/avatar_11.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "it.alessiomontanari.app-main-50:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "it.alessiomontanari.app-main-50:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/layout_list_item.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/layout/list_item.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "it.alessiomontanari.app-main-50:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "it.alessiomontanari.app-main-50:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/drawable_avatar_2.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/drawable/avatar_2.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "it.alessiomontanari.app-main-50:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/drawable_ic_baseline_lock_24.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/drawable/ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "it.alessiomontanari.app-main-50:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/drawable_user_blue_marker.png.flat",
+        "source": "it.alessiomontanari.app-main-50:/drawable/user_blue_marker.png"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/drawable_avatar_16.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/drawable/avatar_16.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/drawable_avatar_12.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/drawable/avatar_12.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "it.alessiomontanari.app-main-50:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/xml_backup_rules.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/drawable_side_nav_bar.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/layout_activity_codice.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/layout/activity_codice.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/drawable_ic_baseline_person_24.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/drawable/ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/drawable_ic_slideshow_black_24dp.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/drawable/ic_slideshow_black_24dp.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/drawable_avatar_6.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/drawable/avatar_6.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/layout_activity_maps.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/layout/activity_maps.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/layout_activity_login.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/layout/activity_login.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/drawable_avatar_13.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/drawable/avatar_13.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/drawable_avatar_7.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/drawable/avatar_7.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "it.alessiomontanari.app-main-50:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/drawable_ic_gallery_black_24dp.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/drawable/ic_gallery_black_24dp.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/drawable_ic_camera_black_24dp.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/drawable/ic_camera_black_24dp.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/drawable_avatar_3.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/drawable/avatar_3.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "it.alessiomontanari.app-main-50:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/drawable_avatar_10.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/drawable/avatar_10.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/drawable_ic_baseline_sort_by_alpha_24.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/drawable/ic_baseline_sort_by_alpha_24.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "it.alessiomontanari.app-main-50:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/drawable_ic_launcher_background.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/xml_data_extraction_rules.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "it.alessiomontanari.app-merged_res-48:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "it.alessiomontanari.app-main-50:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]

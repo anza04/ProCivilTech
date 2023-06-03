@@ -1,0 +1,229 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="it.alessiomontanari"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+11-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:5:5-78
+11-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+12-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:7:5-80
+12-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:7:22-78
+13    <uses-permission
+13-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:9:5-12:43
+14        android:name="android.permission.MANAGE_EXTERNAL_STORAGE"
+14-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:10:13-70
+15        android:minSdkVersion="30" />
+15-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:11:13-39
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:13:5-80
+16-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:13:22-78
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:15:5-79
+17-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:15:22-77
+18
+19    <!-- Include required permissions for Google Maps API to run. -->
+20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+20-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Fab\.gradle\caches\transforms-3\cac067d82e677fb385689af6628aa10b\transformed\play-services-maps-18.1.0\AndroidManifest.xml:23:5-79
+20-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Fab\.gradle\caches\transforms-3\cac067d82e677fb385689af6628aa10b\transformed\play-services-maps-18.1.0\AndroidManifest.xml:23:22-76
+21    <uses-permission android:name="android.permission.INTERNET" />
+21-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Fab\.gradle\caches\transforms-3\cac067d82e677fb385689af6628aa10b\transformed\play-services-maps-18.1.0\AndroidManifest.xml:24:5-67
+21-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Fab\.gradle\caches\transforms-3\cac067d82e677fb385689af6628aa10b\transformed\play-services-maps-18.1.0\AndroidManifest.xml:24:22-64
+22
+23    <uses-feature
+23-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Fab\.gradle\caches\transforms-3\cac067d82e677fb385689af6628aa10b\transformed\play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
+24        android:glEsVersion="0x00020000"
+24-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Fab\.gradle\caches\transforms-3\cac067d82e677fb385689af6628aa10b\transformed\play-services-maps-18.1.0\AndroidManifest.xml:27:9-41
+25        android:required="true" />
+25-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Fab\.gradle\caches\transforms-3\cac067d82e677fb385689af6628aa10b\transformed\play-services-maps-18.1.0\AndroidManifest.xml:28:9-32
+26
+27    <queries>
+27-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Fab\.gradle\caches\transforms-3\cac067d82e677fb385689af6628aa10b\transformed\play-services-maps-18.1.0\AndroidManifest.xml:30:5-34:15
+28
+29        <!-- Needs to be explicitly declared on Android R+ -->
+30        <package android:name="com.google.android.apps.maps" />
+30-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Fab\.gradle\caches\transforms-3\cac067d82e677fb385689af6628aa10b\transformed\play-services-maps-18.1.0\AndroidManifest.xml:33:9-64
+30-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Fab\.gradle\caches\transforms-3\cac067d82e677fb385689af6628aa10b\transformed\play-services-maps-18.1.0\AndroidManifest.xml:33:18-61
+31    </queries>
+32
+33    <application
+33-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:17:5-60:19
+34        android:allowBackup="true"
+34-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:18:13-39
+35        android:allowNativeHeapPointerTagging="false"
+35-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:19:13-58
+36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+36-->[androidx.core:core:1.8.0] C:\Users\Fab\.gradle\caches\transforms-3\d935927fb056fa6fe5e70e3108c1ec7e\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+37        android:dataExtractionRules="@xml/data_extraction_rules"
+37-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:20:13-69
+38        android:debuggable="true"
+39        android:extractNativeLibs="false"
+40        android:fullBackupContent="@xml/backup_rules"
+40-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:21:13-58
+41        android:icon="@mipmap/ic_launcher"
+41-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:22:13-47
+42        android:label="@string/app_name"
+42-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:23:13-45
+43        android:roundIcon="@mipmap/ic_launcher_round"
+43-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:24:13-58
+44        android:supportsRtl="true"
+44-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:25:13-39
+45        android:theme="@style/Theme.GoogleMapsCercaPersone" >
+45-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:26:13-64
+46        <activity
+46-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:29:9-31:43
+47            android:name="it.alessiomontanari.login.CodiceActivity"
+47-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:30:17-53
+48            android:exported="false" />
+48-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:31:17-41
+49        <activity
+49-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:33:9-40:20
+50            android:name="it.alessiomontanari.login.LoginActivity"
+50-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:34:17-52
+51            android:exported="true" >
+51-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:35:17-40
+52            <intent-filter>
+52-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:36:17-39:33
+53                <action android:name="android.intent.action.MAIN" />
+53-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:37:21-73
+53-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:37:29-70
+54
+55                <category android:name="android.intent.category.LAUNCHER" />
+55-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:38:21-81
+55-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:38:31-78
+56            </intent-filter>
+57        </activity>
+58        <activity
+58-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:42:9-48:20
+59            android:name="it.alessiomontanari.Inserimento"
+59-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:43:17-44
+60            android:exported="false" >
+60-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:44:17-41
+61            <meta-data
+61-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:45:13-47:39
+62                android:name="android.app.lib_name"
+62-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:46:21-56
+63                android:value="" />
+63-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:47:21-37
+64        </activity>
+65
+66        <meta-data
+66-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:50:9-52:74
+67            android:name="com.google.android.geo.API_KEY"
+67-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:51:17-62
+68            android:value="AIzaSyCalPLYyWQU-p0BDdsJVnsG1hjlXhaFpaM" />
+68-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:52:17-72
+69
+70        <activity
+70-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:54:9-58:20
+71            android:name="it.alessiomontanari.MapsActivity"
+71-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:55:17-45
+72            android:exported="true"
+72-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:56:17-40
+73            android:label="@string/title_activity_maps" >
+73-->C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\src\main\AndroidManifest.xml:57:17-60
+74        </activity>
+75
+76        <!-- Needs to be explicitly declared on P+ -->
+77        <uses-library
+77-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Fab\.gradle\caches\transforms-3\cac067d82e677fb385689af6628aa10b\transformed\play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
+78            android:name="org.apache.http.legacy"
+78-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Fab\.gradle\caches\transforms-3\cac067d82e677fb385689af6628aa10b\transformed\play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
+79            android:required="false" />
+79-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Fab\.gradle\caches\transforms-3\cac067d82e677fb385689af6628aa10b\transformed\play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
+80
+81        <service
+81-->[com.google.firebase:firebase-firestore:24.5.0] C:\Users\Fab\.gradle\caches\transforms-3\5dd3e8f98c5ace8f834920f4cfa06058\transformed\firebase-firestore-24.5.0\AndroidManifest.xml:16:9-22:19
+82            android:name="com.google.firebase.components.ComponentDiscoveryService"
+82-->[com.google.firebase:firebase-firestore:24.5.0] C:\Users\Fab\.gradle\caches\transforms-3\5dd3e8f98c5ace8f834920f4cfa06058\transformed\firebase-firestore-24.5.0\AndroidManifest.xml:17:13-84
+83            android:directBootAware="true"
+83-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Fab\.gradle\caches\transforms-3\eea5efa44f056fe53286a8bbf6e0ccb5\transformed\firebase-common-20.3.2\AndroidManifest.xml:34:13-43
+84            android:exported="false" >
+84-->[com.google.firebase:firebase-firestore:24.5.0] C:\Users\Fab\.gradle\caches\transforms-3\5dd3e8f98c5ace8f834920f4cfa06058\transformed\firebase-firestore-24.5.0\AndroidManifest.xml:18:13-37
+85            <meta-data
+85-->[com.google.firebase:firebase-firestore:24.5.0] C:\Users\Fab\.gradle\caches\transforms-3\5dd3e8f98c5ace8f834920f4cfa06058\transformed\firebase-firestore-24.5.0\AndroidManifest.xml:19:13-21:85
+86                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+86-->[com.google.firebase:firebase-firestore:24.5.0] C:\Users\Fab\.gradle\caches\transforms-3\5dd3e8f98c5ace8f834920f4cfa06058\transformed\firebase-firestore-24.5.0\AndroidManifest.xml:20:17-111
+87                android:value="com.google.firebase.components.ComponentRegistrar" />
+87-->[com.google.firebase:firebase-firestore:24.5.0] C:\Users\Fab\.gradle\caches\transforms-3\5dd3e8f98c5ace8f834920f4cfa06058\transformed\firebase-firestore-24.5.0\AndroidManifest.xml:21:17-82
+88            <meta-data
+88-->[com.google.firebase:firebase-database:20.2.0] C:\Users\Fab\.gradle\caches\transforms-3\eab58bce6a21af9d1e2277205bab6acd\transformed\firebase-database-20.2.0\AndroidManifest.xml:31:13-33:85
+89                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+89-->[com.google.firebase:firebase-database:20.2.0] C:\Users\Fab\.gradle\caches\transforms-3\eab58bce6a21af9d1e2277205bab6acd\transformed\firebase-database-20.2.0\AndroidManifest.xml:32:17-109
+90                android:value="com.google.firebase.components.ComponentRegistrar" />
+90-->[com.google.firebase:firebase-database:20.2.0] C:\Users\Fab\.gradle\caches\transforms-3\eab58bce6a21af9d1e2277205bab6acd\transformed\firebase-database-20.2.0\AndroidManifest.xml:33:17-82
+91        </service>
+92
+93        <provider
+93-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Fab\.gradle\caches\transforms-3\eea5efa44f056fe53286a8bbf6e0ccb5\transformed\firebase-common-20.3.2\AndroidManifest.xml:25:9-30:39
+94            android:name="com.google.firebase.provider.FirebaseInitProvider"
+94-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Fab\.gradle\caches\transforms-3\eea5efa44f056fe53286a8bbf6e0ccb5\transformed\firebase-common-20.3.2\AndroidManifest.xml:26:13-77
+95            android:authorities="it.alessiomontanari.firebaseinitprovider"
+95-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Fab\.gradle\caches\transforms-3\eea5efa44f056fe53286a8bbf6e0ccb5\transformed\firebase-common-20.3.2\AndroidManifest.xml:27:13-72
+96            android:directBootAware="true"
+96-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Fab\.gradle\caches\transforms-3\eea5efa44f056fe53286a8bbf6e0ccb5\transformed\firebase-common-20.3.2\AndroidManifest.xml:28:13-43
+97            android:exported="false"
+97-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Fab\.gradle\caches\transforms-3\eea5efa44f056fe53286a8bbf6e0ccb5\transformed\firebase-common-20.3.2\AndroidManifest.xml:29:13-37
+98            android:initOrder="100" />
+98-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Fab\.gradle\caches\transforms-3\eea5efa44f056fe53286a8bbf6e0ccb5\transformed\firebase-common-20.3.2\AndroidManifest.xml:30:13-36
+99
+100        <activity
+100-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Fab\.gradle\caches\transforms-3\159ee80ade54829a1ff7d6ff6e116efc\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+101            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+101-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Fab\.gradle\caches\transforms-3\159ee80ade54829a1ff7d6ff6e116efc\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+102            android:exported="false"
+102-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Fab\.gradle\caches\transforms-3\159ee80ade54829a1ff7d6ff6e116efc\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+103            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+103-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Fab\.gradle\caches\transforms-3\159ee80ade54829a1ff7d6ff6e116efc\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+104
+105        <meta-data
+105-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Fab\.gradle\caches\transforms-3\618b16313fec1b0d890112b5162e5b37\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+106            android:name="com.google.android.gms.version"
+106-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Fab\.gradle\caches\transforms-3\618b16313fec1b0d890112b5162e5b37\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+107            android:value="@integer/google_play_services_version" />
+107-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Fab\.gradle\caches\transforms-3\618b16313fec1b0d890112b5162e5b37\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+108
+109        <provider
+109-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Fab\.gradle\caches\transforms-3\fb66bd628dff7fcf8b72e613383d5d78\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+110            android:name="androidx.startup.InitializationProvider"
+110-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Fab\.gradle\caches\transforms-3\fb66bd628dff7fcf8b72e613383d5d78\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+111            android:authorities="it.alessiomontanari.androidx-startup"
+111-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Fab\.gradle\caches\transforms-3\fb66bd628dff7fcf8b72e613383d5d78\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+112            android:exported="false" >
+112-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Fab\.gradle\caches\transforms-3\fb66bd628dff7fcf8b72e613383d5d78\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+113            <meta-data
+113-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Fab\.gradle\caches\transforms-3\fb66bd628dff7fcf8b72e613383d5d78\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+114                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+114-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Fab\.gradle\caches\transforms-3\fb66bd628dff7fcf8b72e613383d5d78\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+115                android:value="androidx.startup" />
+115-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Fab\.gradle\caches\transforms-3\fb66bd628dff7fcf8b72e613383d5d78\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+116            <meta-data
+116-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Fab\.gradle\caches\transforms-3\b2eb98660bfd2cf45a133033cc7aed23\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+117                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+117-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Fab\.gradle\caches\transforms-3\b2eb98660bfd2cf45a133033cc7aed23\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+118                android:value="androidx.startup" />
+118-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Fab\.gradle\caches\transforms-3\b2eb98660bfd2cf45a133033cc7aed23\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+119        </provider>
+120
+121        <uses-library
+121-->[androidx.window:window:1.0.0] C:\Users\Fab\.gradle\caches\transforms-3\8efc4af8422002ee99660f3376a48e84\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+122            android:name="androidx.window.extensions"
+122-->[androidx.window:window:1.0.0] C:\Users\Fab\.gradle\caches\transforms-3\8efc4af8422002ee99660f3376a48e84\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+123            android:required="false" />
+123-->[androidx.window:window:1.0.0] C:\Users\Fab\.gradle\caches\transforms-3\8efc4af8422002ee99660f3376a48e84\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+124        <uses-library
+124-->[androidx.window:window:1.0.0] C:\Users\Fab\.gradle\caches\transforms-3\8efc4af8422002ee99660f3376a48e84\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+125            android:name="androidx.window.sidecar"
+125-->[androidx.window:window:1.0.0] C:\Users\Fab\.gradle\caches\transforms-3\8efc4af8422002ee99660f3376a48e84\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+126            android:required="false" />
+126-->[androidx.window:window:1.0.0] C:\Users\Fab\.gradle\caches\transforms-3\8efc4af8422002ee99660f3376a48e84\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+127    </application>
+128
+129</manifest>

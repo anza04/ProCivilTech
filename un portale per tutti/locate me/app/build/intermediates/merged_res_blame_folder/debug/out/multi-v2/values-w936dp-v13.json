@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "it.alessiomontanari.app-mergeDebugResources-46:/values-w936dp-v13/values-w936dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Fab\\Desktop\\Ale Skuolet\\Sistemi\\Progetti\\GitHub\\PC LocateMe - Unione\\app\\src\\main\\res\\values-w936dp\\dimens.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "59",
+                        "endOffsets": "71"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "59",
+                        "endOffsets": "110"
+                    }
+                }
+            ]
+        }
+    ]
+}

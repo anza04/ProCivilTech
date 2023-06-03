@@ -1,0 +1,5 @@
+it.alessiomontanari.test.app-androidTest-0 C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\build\generated\res\resValues\androidTest\debug
+it.alessiomontanari.test.app-androidTest-1 C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\build\generated\res\rs\androidTest\debug
+it.alessiomontanari.test.app-mergeDebugAndroidTestResources-2 C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+it.alessiomontanari.test.app-mergeDebugAndroidTestResources-3 C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+it.alessiomontanari.test.app-merged_res-4 C:\Users\Fab\Desktop\Ale Skuolet\Sistemi\Progetti\GitHub\PC LocateMe - Unione\app\build\intermediates\merged_res\debugAndroidTest

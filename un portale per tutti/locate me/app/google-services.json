@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "212462402347",
+    "project_id": "protezionecivile-locatem-c0f6c",
+    "storage_bucket": "protezionecivile-locatem-c0f6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212462402347:android:848c2e52b84beca494e36e",
+        "android_client_info": {
+          "package_name": "it.alessiomontanari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212462402347-pnom2nru0d5kjbpb5obil3u3uqnmi8m3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.alessiomontanari",
+            "certificate_hash": "30f186e788b4c382167dc73cdd0452b980a20ab3"
+          }
+        },
+        {
+          "client_id": "212462402347-1af7t5svdd07c7u3q48lhuinmvulf680.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgTh3oUnsPPDa9TDtGhPLvMGoo9V0TF2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212462402347-1af7t5svdd07c7u3q48lhuinmvulf680.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
